@@ -28,7 +28,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 👥 **Support Group:** [Filmygod](https://t.me/FilmygodHindiHDMovie)
 
-📢 **Updates Channel:** [Filmygod Projects](https://t.me/Discovery_Updates)
+📢 **Updates Channel:** [Filmygod Projects](https://t.me/FilmygodHindiHDMovie)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @FilmygodHindiHDMovie
