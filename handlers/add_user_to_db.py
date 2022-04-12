@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @FilmygodHindiHDMovie
 
 from configs import Config
 from handlers.database import db
