@@ -1,4 +1,4 @@
-# (c) @Oceanic11
+# (c) @FilmygodHindiHDMovie
 
 import asyncio
 from configs import Config
