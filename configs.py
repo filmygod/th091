@@ -33,7 +33,9 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @FilmygodHindiHDMovie
 
-Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
+Use it Wisely else Get Banned!!
+Developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
+
 """
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
